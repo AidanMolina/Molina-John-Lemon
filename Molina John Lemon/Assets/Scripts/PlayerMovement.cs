@@ -12,6 +12,9 @@ public class PlayerMovement : MonoBehaviour
     public float turnSpeed = 20f;
     Quaternion m_Rotation = Quaternion.identity;
 
+    public float sprintSpeed = 2f;
+
+    Fader child;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
         m_Animator = GetComponent<Animator> ();
         m_Rigidbody = GetComponent<Rigidbody> ();
         m_AudioSource = GetComponent<AudioSource>();
+        child = gameObject.transform.GetChild(0).gameObject.GetComponent<Fader>();
     }
 
     // Update is called once per frame
@@ -27,8 +31,15 @@ public class PlayerMovement : MonoBehaviour
         float horizontal = Input.GetAxis ("Horizontal");
         float vertical = Input.GetAxis ("Vertical");
 
-        m_Movement.Set(horizontal, 0f, vertical);
-        m_Movement.Normalize ();
+        if(gameObject.activeInHierarchy){
+            if(Input.GetKey("left shift")){
+                m_Movement.Set(horizontal*sprintSpeed, 0f, vertical*sprintSpeed);
+            }
+            else{
+                m_Movement.Set(horizontal, 0f, vertical);
+                m_Movement.Normalize();
+            }
+        }
 
         bool hasHorizontalInput = !Mathf.Approximately (horizontal, 0f);
         bool hasVerticalInput = !Mathf.Approximately (vertical, 0f);
@@ -57,4 +68,6 @@ public class PlayerMovement : MonoBehaviour
         m_Rigidbody.MovePosition (m_Rigidbody.position + m_Movement * m_Animator.deltaPosition.magnitude);
         m_Rigidbody.MoveRotation (m_Rotation);
     }
+
+
 }
