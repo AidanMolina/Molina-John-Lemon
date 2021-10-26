@@ -22,10 +22,12 @@ public class GameEnding : MonoBehaviour
     public CanvasGroup startingImageCanvasGroup;
     
     float m_Timer;
+    float m_Timer2;
     bool m_HasAudioPlayed;
 
     void Start(){
         m_IsStarting = true;
+        m_Timer2 = fadeDuration*5;
     }
 
     void OnTriggerEnter (Collider other)
@@ -82,12 +84,11 @@ public class GameEnding : MonoBehaviour
     }
 
     void StartLevel(CanvasGroup imageCanvasGroup){
-        m_Timer = fadeDuration*5;
-        m_Timer -= Time.deltaTime;
+        m_Timer2 -= Time.deltaTime;
 
-        imageCanvasGroup.alpha = m_Timer / fadeDuration*5;
+        imageCanvasGroup.alpha = m_Timer2 / fadeDuration*5;
 
-        if(m_Timer <= 0){
+        if(m_Timer2 <= 0){
             m_IsStarting = false;
         }
 
