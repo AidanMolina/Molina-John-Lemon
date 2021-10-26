@@ -44,7 +44,7 @@ public class GameEnding : MonoBehaviour
     void Update ()
     {
         if(m_IsStarting){
-            Starting(startingImageCanvasGroup);
+            StartLevel(startingImageCanvasGroup);
         }
         if (m_IsPlayerAtExit)
         {
@@ -81,13 +81,13 @@ public class GameEnding : MonoBehaviour
         }
     }
 
-    void Starting(CanvasGroup imageCanvasGroup){
+    void StartLevel(CanvasGroup imageCanvasGroup){
         m_Timer = fadeDuration*5;
         m_Timer -= Time.deltaTime;
 
         imageCanvasGroup.alpha = m_Timer / fadeDuration*5;
 
-        if(m_Timer == 0){
+        if(m_Timer <= 0){
             m_IsStarting = false;
         }
 
