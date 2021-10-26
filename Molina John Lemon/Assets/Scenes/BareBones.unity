@@ -3167,7 +3167,7 @@ PrefabInstance:
         type: 3}
       propertyPath: gameEnding
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -3625,6 +3625,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &176512577 stripped
@@ -4291,6 +4301,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[3]
       value: 
       objectReference: {fileID: 1608850919}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -4381,6 +4401,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 1209444383}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -4516,6 +4546,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &222950210 stripped
@@ -4710,6 +4750,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 746921241}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -6366,6 +6416,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &282758736 stripped
@@ -6754,6 +6814,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 2078469491}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -7392,7 +7462,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &379100852
 GameObject:
@@ -9116,7 +9186,7 @@ RectTransform:
   - {fileID: 1272107227}
   - {fileID: 1789395314}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10837,7 +10907,7 @@ Transform:
   m_Children:
   - {fileID: 1977945326}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519637195
 GameObject:
@@ -12998,7 +13068,7 @@ Transform:
   - {fileID: 335561081}
   - {fileID: 617685702}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &590501573
 GameObject:
@@ -13425,6 +13495,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 455794153}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -14037,6 +14117,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &633863310 stripped
@@ -14732,7 +14822,7 @@ Transform:
   - {fileID: 1600096436}
   - {fileID: 407036281}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &675737216
 GameObject:
@@ -16122,7 +16212,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 30, y: 20, z: 0}
 --- !u!43 &707909426
 Mesh:
@@ -18214,6 +18304,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 419015750}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -19348,6 +19448,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &878436638 stripped
@@ -20521,6 +20631,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &944268769 stripped
@@ -20599,7 +20719,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: -20.99, y: 5.6568537, z: -29.536854}
+  m_LocalPosition: {x: -21.57, y: 5.6568537, z: -29.576855}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -21059,6 +21179,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1050832137 stripped
@@ -21806,7 +21936,7 @@ Transform:
   - {fileID: 1004434670}
   - {fileID: 339506111}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1100783289
 Mesh:
@@ -22546,6 +22676,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1158452171 stripped
@@ -23979,6 +24119,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[3]
       value: 
       objectReference: {fileID: 137736643}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -25925,6 +26075,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 1512635637}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -26709,12 +26869,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428478246}
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: -20.99, y: 5.6568537, z: -29.536854}
+  m_LocalPosition: {x: -21.57, y: 5.6568537, z: -29.576855}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 811107673}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 45, y: 0, z: 0}
 --- !u!1 &1451151938
 GameObject:
@@ -27722,6 +27882,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1469502076 stripped
@@ -27797,6 +27967,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1476068704 stripped
@@ -27856,7 +28036,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1496727160
 GameObject:
@@ -30802,6 +30982,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 1996909637}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -30902,6 +31092,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[3]
       value: 
       objectReference: {fileID: 433869323}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -31984,6 +32184,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1676180420 stripped
@@ -32327,6 +32537,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 886460982}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -33943,6 +34163,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 48092609}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -34237,6 +34467,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[3]
       value: 
       objectReference: {fileID: 339506111}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -34953,7 +35193,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1878613351 stripped
 Transform:
@@ -36280,6 +36520,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &1899878153 stripped
@@ -36957,7 +37207,7 @@ Transform:
   - {fileID: 2031898934}
   - {fileID: 1208324740}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1942956349
 Mesh:
@@ -37832,6 +38082,16 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[3]
       value: 
       objectReference: {fileID: 1118094589}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 3645104374514718120, guid: 184fbd2e32de15a47981d1486d58d766,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     - target: {fileID: 6086802025567233057, guid: 184fbd2e32de15a47981d1486d58d766,
         type: 3}
       propertyPath: m_RootOrder
@@ -41173,6 +41433,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &2124417083 stripped
@@ -41561,6 +41831,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 382107356}
+    - target: {fileID: 7149936695817703807, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6,
+        type: 3}
+      propertyPath: gameEnding
+      value: 
+      objectReference: {fileID: 377571578}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da7ba5e7b7cb9ec4a97b163b8e9093d6, type: 3}
 --- !u!4 &2142769703 stripped
@@ -41648,12 +41928,12 @@ PrefabInstance:
     - target: {fileID: 5709276661266578184, guid: 03ced7f46926d02428437200d69e1b57,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5709276661266578184, guid: 03ced7f46926d02428437200d69e1b57,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.99
+      value: -21.57
       objectReference: {fileID: 0}
     - target: {fileID: 5709276661266578184, guid: 03ced7f46926d02428437200d69e1b57,
         type: 3}
@@ -41663,7 +41943,7 @@ PrefabInstance:
     - target: {fileID: 5709276661266578184, guid: 03ced7f46926d02428437200d69e1b57,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -23.88
+      value: -23.92
       objectReference: {fileID: 0}
     - target: {fileID: 5709276661266578184, guid: 03ced7f46926d02428437200d69e1b57,
         type: 3}
@@ -41711,5 +41991,5 @@ PrefabInstance:
       value: 1.75
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 2444923965478430259, guid: 03ced7f46926d02428437200d69e1b57, type: 3}
+    - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 03ced7f46926d02428437200d69e1b57, type: 3}
